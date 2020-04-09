@@ -1,0 +1,10 @@
+{
+  "name": "pure-component",
+  "version": "1.0.0",
+  "description": "React Pure component implementation",
+  "scripts": {
+    "start": "node PureComponent.js"
+  },
+  "author": "Aleksey Esev",
+  "private": true
+}
